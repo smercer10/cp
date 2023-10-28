@@ -1,0 +1,7 @@
+# Temporary working files
+sandbox/
+
+# Accidental build artefacts
+**/output.txt
+**/error.txt
+**/a.out
